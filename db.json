@@ -12,5 +12,31 @@
         "ID": 3,
         "FILIAL": "PIAUÍ"
       }
-    ]
+    ],
+    "CHECKLIST": [
+        {
+            "ID": 1,
+            "ITEM": "Cinto de Segurança"
+        },
+        {
+            "ID": 2,
+            "ITEM": "Tacografo"
+        },
+        {
+            "ID": 3,
+            "ITEM": "Extintor"
+        },
+        {
+            "ID:": 4,
+            "ITEM": "Acabamento Interno"
+        },
+        {
+            "ID": 5,
+            "ITEM": "Painel de Instrumentos"
+        },
+        {
+            "ID": 6,
+            "ITEM": "Vidros e Retrovisores"
+        }
+    ] 
 }
