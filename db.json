@@ -1,0 +1,16 @@
+{  
+    "DESTINO": [
+       {
+         "ID": 1,
+         "FILIAL": "FLEICHERINHA"         
+      },
+      {
+         "ID": 2,
+         "FILIAL": "SANTA CRITERIA"
+      },
+      {
+        "ID": 3,
+        "FILIAL": "PIAUÍ"
+      }
+    ]
+}
