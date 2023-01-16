@@ -38,5 +38,12 @@
             "ID": 6,
             "ITEM": "Vidros e Retrovisores"
         }
-    ] 
+    ],
+    "CAMINHAO": [
+        {
+            "ID": 1,
+            "VEICULO": "FH 400",
+            "PLACA": "TST-1234"
+        }        
+    ]
 }
