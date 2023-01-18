@@ -49,7 +49,25 @@
         {
             "ID": 1,
             "VEICULO": "FH 400",
-            "PLACA": "TST-1234"
+            "PLACA": "TST-1234",
+            "MARCA": "VOLVO",
+            "CHASSI": "33HZ23ACWZYMA8727",
+            "COR": "BRANCO",
+            "KM": "12345",
+            "ANOFABRICACAO": "2018",
+            "ANOMODELO": "2018",
+            "POTENCIA": "460",
+            "CIDADE": "MARACANAÚ",
+            "TRACAO": true,
+            "AQUISICAO": "2018-01-23",
+            "COMBUSTIVEL": "DIESEL",
+            "TIPO": "CAVALO",
+            "EIXO": "3",
+            "VALORVENAL": "123456,00",
+            "RENAVAM": "01234567890",
+            "TANQUEITSPRINCIPAL": "310",
+            "TANQUEITSSECUNDARIO": "360",
+            "TANQUEARLAITS": "12"
         }        
     ],
     "CARACTERISTICA": [
