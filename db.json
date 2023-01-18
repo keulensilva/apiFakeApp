@@ -51,5 +51,12 @@
             "VEICULO": "FH 400",
             "PLACA": "TST-1234"
         }        
+    ],
+    "CARACTERISTICA": [
+        {
+            "ID": 1,
+            "TIPO": "Cavalo"            
+        }
     ]
+               
 }
