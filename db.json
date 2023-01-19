@@ -75,6 +75,26 @@
             "ID": 1,
             "TIPO": "Cavalo"            
         }
+    ],
+    "MOTORISTAS": [
+        {
+            "ID": 1,
+            "NOME": "ANTONIO DA SILVA OLIVEIRA",
+            "MATRICULA": "12345",
+            "CARTEIRA": "E",            
+        },
+        {
+            "ID": 2,
+            "NOME": "CARLOS LIMA DA COSTA",
+            "MATRICULA": "12399",
+            "CARTEIRA": "E",            
+        },
+        {
+            "ID": 3,
+            "NOME": "FRANCISCO VALDECIR COSTA",
+            "MATRICULA": "12398",
+            "CARTEIRA": "E",            
+        },
     ]
                
 }
